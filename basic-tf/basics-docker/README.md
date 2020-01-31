@@ -8,3 +8,10 @@
 - terraform apply  # apply the plan and can also output the plan file.
 - terraform show   # inspect terraform state or plan
 - 
+
+
+- Single line comment  - #
+- Multi line comment - /*  and */
+- values are assigned -  key = value
+- strings are in double quote
+- String interpolation -  ${}  , example - ${var.foo}
